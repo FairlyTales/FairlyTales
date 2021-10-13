@@ -32,7 +32,8 @@
 
   <br>
 
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img alt="css" src="https://img.shields.io/badge/css-474747.svg?&style=for-the-badge&logo=css3&logoColor=fff&logoWidth=20&labelColor=696969" /></a>&nbsp;
 <a href="https://sass-lang.com/">
   <img alt="sass" src="https://img.shields.io/badge/sass-474747.svg?&style=for-the-badge&logo=sass&logoColor=fff&logoWidth=20&labelColor=696969" /></a>&nbsp;
 <a href="https://tailwindcss.com/">
