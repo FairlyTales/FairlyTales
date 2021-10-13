@@ -24,7 +24,7 @@
 <a href="https://google.com/">
   <img alt="googling" src="https://img.shields.io/badge/googling-474747.svg?&style=for-the-badge&logo=google&logoColor=fff&logoWidth=20&labelColor=696969" /></a>&nbsp;
 
-### You can check my repositories, maybe you will find something fun, interesting or useful:
+### You can check my repositories, maybe you will find something fun, useful or interesting:
 <a href="https://github.com/FairlyTales?tab=repositories">
   <img alt="github" src="https://img.shields.io/badge/repositories-474747.svg?&style=for-the-badge&logo=github&logoColor=fff&logoWidth=20&labelColor=696969" /></a>
 
