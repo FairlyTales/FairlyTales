@@ -14,7 +14,7 @@
   
   <br>
   
-<a href="https://testing-library.com/docs/react-testing-library/intro/">
+<a href="https://testing-library.com/">
   <img alt="testing-library" src="https://img.shields.io/badge/React Testing Library-474747.svg?&style=for-the-badge&logo=testing-library&logoColor=fff&logoWidth=20&labelColor=696969" /></a>&nbsp;
 <a href="https://jestjs.io/">
   <img alt="jest" src="https://img.shields.io/badge/jest-474747.svg?&style=for-the-badge&logo=jest&logoColor=fff&logoWidth=20&labelColor=696969" /></a>&nbsp;
