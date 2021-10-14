@@ -58,4 +58,4 @@
 <a href="mailto:khnychkin_kirill@tutanota.com">
   <img alt="email" src="https://img.shields.io/badge/email-474747.svg?&style=for-the-badge&logo=gmail&logoColor=fff&logoWidth=20&labelColor=696969" /></a>
 
-### Well, I guess that's all. Thank's for checking up this page \\(^ω^)/
+### Well, that's all. Thank's for checking up this page \\(^ω^)/
