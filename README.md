@@ -1,7 +1,7 @@
 
 # Hello there!
 
-### Welcome to my GitHub. There are mostly frontend things here cause I'm just a frontend dev doing frontend stuff ¯\\\_(ツ)\_/¯
+### Welcome to my GitHub! There are mostly frontend things here cause I'm just a frontend dev doing frontend stuff ¯\\\_(ツ)\_/¯
 
 ### Here are some of the things I use:
 
