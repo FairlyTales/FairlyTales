@@ -63,11 +63,11 @@
 </a>&nbsp;
 
 <a href="https://tailwindcss.com/">
-  <img alt="tailwindcss" src="https://img.shields.io/badge/tailwind-474747.svg?&style=for-the-badge&logo=tailwindcss&logoColor=fff&logoWidth=20&labelColor=696969" />
+  <img alt="tailwindcss" src="https://img.shields.io/badge/tailwind css-474747.svg?&style=for-the-badge&logo=tailwindcss&logoColor=fff&logoWidth=20&labelColor=696969" />
 </a>&nbsp;
 
 <a href="https://ant.design/">
-  <img alt="ant design" src="https://img.shields.io/badge/ant-474747.svg?&style=for-the-badge&logo=antdesign&logoColor=fff&logoWidth=20&labelColor=696969" />
+  <img alt="ant design" src="https://img.shields.io/badge/ant design-474747.svg?&style=for-the-badge&logo=antdesign&logoColor=fff&logoWidth=20&labelColor=696969" />
 </a>&nbsp;
 
   <br>
@@ -79,11 +79,6 @@
 <a href="https://stylelint.io/">
   <img alt="stylelint" src="https://img.shields.io/badge/stylelint-474747.svg?&style=for-the-badge&logo=stylelint&logoColor=fff&logoWidth=20&labelColor=696969" />
 </a>&nbsp;
-
-<a href="https://editorconfig.org/">
-  <img alt="editorConfig" src="https://img.shields.io/badge/editor config-474747.svg?&style=for-the-badge&logo=editorconfig&logoColor=fff&logoWidth=20&labelColor=696969" />
-</a>&nbsp;
-
 
 <a href="https://prettier.io/">
   <img alt="prettier" src="https://img.shields.io/badge/prettier-474747.svg?&style=for-the-badge&logo=prettier&logoColor=fff&logoWidth=20&labelColor=696969" />
