@@ -70,10 +70,6 @@
   <img alt="ant design" src="https://img.shields.io/badge/ant-474747.svg?&style=for-the-badge&logo=antdesign&logoColor=fff&logoWidth=20&labelColor=696969" />
 </a>&nbsp;
 
-<a href="https://mui.com/">
-  <img alt="material design" src="https://img.shields.io/badge/material-474747.svg?&style=for-the-badge&logo=materialdesign&logoColor=fff&logoWidth=20&labelColor=696969" />
-</a>&nbsp;
-
   <br>
 
 <a href="https://eslint.org/">
