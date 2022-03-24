@@ -99,7 +99,7 @@
 </a>&nbsp;
 
 <a href="https://www.google.com/search?q=Yes,%20I%20google%20pretty%20often%20(✯◡✯)">
-  <img alt="googling" src="https://img.shields.io/badge/googling-474747.svg?&style=for-the-badge&logo=google&logoColor=fff&logoWidth=20&labelColor=696969" />
+  <img alt="google" src="https://img.shields.io/badge/google-474747.svg?&style=for-the-badge&logo=google&logoColor=fff&logoWidth=20&labelColor=696969" />
 </a>&nbsp;
 
 
