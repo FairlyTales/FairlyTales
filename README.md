@@ -17,7 +17,7 @@
 </a>&nbsp;
 
 <a href="https://redux.js.org/">
-  <img alt="redux" src="https://img.shields.io/badge/redux-474747.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=696969" />
+  <img alt="redux-toolkit" src="https://img.shields.io/badge/redux_toolkit-474747.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=696969" />
 </a>&nbsp;
 
 <a href="https://redux-saga.js.org/">
