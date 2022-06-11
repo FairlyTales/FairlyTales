@@ -26,51 +26,9 @@
   
   <br>
   
-<a href="https://testing-library.com/">
-  <img alt="testing-library" src="https://img.shields.io/badge/React Testing Library-474747.svg?&style=for-the-badge&logo=testing-library&logoColor=fff&logoWidth=20&labelColor=696969" />
-</a>&nbsp;
-
-<a href="https://jestjs.io/">
-  <img alt="jest" src="https://img.shields.io/badge/jest-474747.svg?&style=for-the-badge&logo=jest&logoColor=fff&logoWidth=20&labelColor=696969" />
-</a>&nbsp;
-
-<a href="https://www.cypress.io/">
-  <img alt="cypress" src="https://img.shields.io/badge/cypress-474747.svg?&style=for-the-badge&logo=cypress&logoColor=fff&logoWidth=20&labelColor=696969" />
-</a>&nbsp;
-    
-  <br>
-
 <a href="https://webpack.js.org/">
   <img alt="webpack" src="https://img.shields.io/badge/webpack-474747.svg?&style=for-the-badge&logo=webpack&logoColor=fff&logoWidth=20&labelColor=696969" />
 </a>&nbsp;
-
-<a href="https://www.docker.com/">
-  <img alt="docker" src="https://img.shields.io/badge/docker-474747.svg?&style=for-the-badge&logo=docker&logoColor=fff&logoWidth=20&labelColor=696969" />
-</a>&nbsp;
-
-<a href="https://nodejs.org/en/">
-  <img alt="node.js" src="https://img.shields.io/badge/node.js-474747.svg?&style=for-the-badge&logo=node.js&logoColor=fff&logoWidth=20&labelColor=696969" />
-</a>&nbsp;
-
-<a href="https://nextjs.org/">
-  <img alt="next.js" src="https://img.shields.io/badge/next.js-474747.svg?&style=for-the-badge&logo=next.js&logoColor=fff&logoWidth=20&labelColor=696969" />
-</a>&nbsp;
-
-  <br>
-
-<a href="https://sass-lang.com/">
-  <img alt="sass" src="https://img.shields.io/badge/sass-474747.svg?&style=for-the-badge&logo=sass&logoColor=fff&logoWidth=20&labelColor=696969" />
-</a>&nbsp;
-
-<a href="https://tailwindcss.com/">
-  <img alt="tailwindcss" src="https://img.shields.io/badge/tailwind css-474747.svg?&style=for-the-badge&logo=tailwindcss&logoColor=fff&logoWidth=20&labelColor=696969" />
-</a>&nbsp;
-
-<a href="https://ant.design/">
-  <img alt="ant design" src="https://img.shields.io/badge/ant design-474747.svg?&style=for-the-badge&logo=antdesign&logoColor=fff&logoWidth=20&labelColor=696969" />
-</a>&nbsp;
-
-  <br>
 
 <a href="https://eslint.org/">
   <img alt="eslint" src="https://img.shields.io/badge/eslint-474747.svg?&style=for-the-badge&logo=eslint&logoColor=fff&logoWidth=20&labelColor=696969" />
@@ -86,13 +44,61 @@
 
   <br>
 
-<a href="https://www.jetbrains.com/webstorm/">
-  <img alt="webstorm" src="https://img.shields.io/badge/webstorm-474747.svg?&style=for-the-badge&logo=webstorm&logoColor=fff&logoWidth=20&labelColor=696969" />
+<a href="https://testing-library.com/">
+  <img alt="testing-library" src="https://img.shields.io/badge/React Testing Library-474747.svg?&style=for-the-badge&logo=testing-library&logoColor=fff&logoWidth=20&labelColor=696969" />
 </a>&nbsp;
+
+<a href="https://jestjs.io/">
+  <img alt="jest" src="https://img.shields.io/badge/jest-474747.svg?&style=for-the-badge&logo=jest&logoColor=fff&logoWidth=20&labelColor=696969" />
+</a>&nbsp;
+
+<a href="https://www.cypress.io/">
+  <img alt="cypress" src="https://img.shields.io/badge/cypress-474747.svg?&style=for-the-badge&logo=cypress&logoColor=fff&logoWidth=20&labelColor=696969" />
+</a>&nbsp;
+
+  <br>
+  
+<a href="https://sass-lang.com/">
+  <img alt="sass" src="https://img.shields.io/badge/sass-474747.svg?&style=for-the-badge&logo=sass&logoColor=fff&logoWidth=20&labelColor=696969" />
+</a>&nbsp;
+
+<a href="https://tailwindcss.com/">
+  <img alt="tailwindcss" src="https://img.shields.io/badge/tailwind css-474747.svg?&style=for-the-badge&logo=tailwindcss&logoColor=fff&logoWidth=20&labelColor=696969" />
+</a>&nbsp;
+
+<a href="https://ant.design/">
+  <img alt="ant design" src="https://img.shields.io/badge/ant design-474747.svg?&style=for-the-badge&logo=antdesign&logoColor=fff&logoWidth=20&labelColor=696969" />
+</a>&nbsp;
+
+  <br>
+
+<a href="https://nodejs.org/en/">
+  <img alt="node.js" src="https://img.shields.io/badge/node.js-474747.svg?&style=for-the-badge&logo=node.js&logoColor=fff&logoWidth=20&labelColor=696969" />
+</a>&nbsp;
+
+<a href="https://nestjs.com/">
+  <img alt="nest.js" src="https://img.shields.io/badge/nest.js-474747.svg?&style=for-the-badge&logo=nestjs&logoColor=fff&logoWidth=20&labelColor=696969" />
+</a>&nbsp;
+
+<a href="https://nextjs.org/">
+  <img alt="next.js" src="https://img.shields.io/badge/next.js-474747.svg?&style=for-the-badge&logo=next.js&logoColor=fff&logoWidth=20&labelColor=696969" />
+</a>&nbsp;
+
+<br>
 
 <a href="https://git-scm.com/">
   <img alt="git" src="https://img.shields.io/badge/git-474747.svg?&style=for-the-badge&logo=git&logoColor=fff&logoWidth=20&labelColor=696969" />
 </a>&nbsp;
+
+<a href="https://www.docker.com/">
+  <img alt="docker" src="https://img.shields.io/badge/docker-474747.svg?&style=for-the-badge&logo=docker&logoColor=fff&logoWidth=20&labelColor=696969" />
+</a>&nbsp;
+
+<a href="https://www.jetbrains.com/webstorm/">
+  <img alt="webstorm" src="https://img.shields.io/badge/webstorm-474747.svg?&style=for-the-badge&logo=webstorm&logoColor=fff&logoWidth=20&labelColor=696969" />
+</a>&nbsp;
+
+<br>
 
 <a href="https://www.figma.com/">
   <img alt="figma" src="https://img.shields.io/badge/figma-474747.svg?&style=for-the-badge&logo=figma&logoColor=fff&logoWidth=20&labelColor=696969" />
