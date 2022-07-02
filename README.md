@@ -43,6 +43,24 @@
 </a>&nbsp;
 
   <br>
+  
+<a href="https://nodejs.org/en/">
+  <img alt="node.js" src="https://img.shields.io/badge/node.js-474747.svg?&style=for-the-badge&logo=node.js&logoColor=fff&logoWidth=20&labelColor=696969" />
+</a>&nbsp;
+
+<a href="https://expressjs.com/">
+  <img alt="express.js" src="https://img.shields.io/badge/express.js-474747.svg?&style=for-the-badge&logo=express&logoColor=fff&logoWidth=20&labelColor=696969" />
+</a>&nbsp;
+
+<a href="https://nestjs.com/">
+  <img alt="nest.js" src="https://img.shields.io/badge/nest.js-474747.svg?&style=for-the-badge&logo=nestjs&logoColor=fff&logoWidth=20&labelColor=696969" />
+</a>&nbsp;
+
+<a href="https://nextjs.org/">
+  <img alt="next.js" src="https://img.shields.io/badge/next.js-474747.svg?&style=for-the-badge&logo=next.js&logoColor=fff&logoWidth=20&labelColor=696969" />
+</a>
+
+<br>
 
 <a href="https://testing-library.com/">
   <img alt="testing-library" src="https://img.shields.io/badge/React Testing Library-474747.svg?&style=for-the-badge&logo=testing-library&logoColor=fff&logoWidth=20&labelColor=696969" />
@@ -72,16 +90,16 @@
 
   <br>
 
-<a href="https://nodejs.org/en/">
-  <img alt="node.js" src="https://img.shields.io/badge/node.js-474747.svg?&style=for-the-badge&logo=node.js&logoColor=fff&logoWidth=20&labelColor=696969" />
+<a href="https://www.docker.com/">
+  <img alt="docker" src="https://img.shields.io/badge/docker-474747.svg?&style=for-the-badge&logo=docker&logoColor=fff&logoWidth=20&labelColor=696969" />
 </a>&nbsp;
 
-<a href="https://nestjs.com/">
-  <img alt="nest.js" src="https://img.shields.io/badge/nest.js-474747.svg?&style=for-the-badge&logo=nestjs&logoColor=fff&logoWidth=20&labelColor=696969" />
+<a href="https://www.postman.com/">
+  <img alt="postman" src="https://img.shields.io/badge/postman-474747.svg?&style=for-the-badge&logo=postman&logoColor=fff&logoWidth=20&labelColor=696969" />
 </a>&nbsp;
 
-<a href="https://nextjs.org/">
-  <img alt="next.js" src="https://img.shields.io/badge/next.js-474747.svg?&style=for-the-badge&logo=next.js&logoColor=fff&logoWidth=20&labelColor=696969" />
+<a href="https://www.jetbrains.com/webstorm/">
+  <img alt="webstorm" src="https://img.shields.io/badge/webstorm-474747.svg?&style=for-the-badge&logo=webstorm&logoColor=fff&logoWidth=20&labelColor=696969" />
 </a>&nbsp;
 
 <br>
@@ -90,15 +108,6 @@
   <img alt="git" src="https://img.shields.io/badge/git-474747.svg?&style=for-the-badge&logo=git&logoColor=fff&logoWidth=20&labelColor=696969" />
 </a>&nbsp;
 
-<a href="https://www.docker.com/">
-  <img alt="docker" src="https://img.shields.io/badge/docker-474747.svg?&style=for-the-badge&logo=docker&logoColor=fff&logoWidth=20&labelColor=696969" />
-</a>&nbsp;
-
-<a href="https://www.jetbrains.com/webstorm/">
-  <img alt="webstorm" src="https://img.shields.io/badge/webstorm-474747.svg?&style=for-the-badge&logo=webstorm&logoColor=fff&logoWidth=20&labelColor=696969" />
-</a>&nbsp;
-
-<br>
 
 <a href="https://www.figma.com/">
   <img alt="figma" src="https://img.shields.io/badge/figma-474747.svg?&style=for-the-badge&logo=figma&logoColor=fff&logoWidth=20&labelColor=696969" />
