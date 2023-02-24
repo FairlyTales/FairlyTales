@@ -116,7 +116,7 @@
   <img alt="figma" src="https://img.shields.io/badge/figma-474747.svg?&style=for-the-badge&logo=figma&logoColor=fff&logoWidth=20&labelColor=696969" />
 </a>
 
-<a href="https://www.google.com/search?q=Yes,%20I%20google%20pretty%20often%20(✯◡✯)" style="text-decoration:none;">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration:none;">
   <img alt="google" src="https://img.shields.io/badge/google-474747.svg?&style=for-the-badge&logo=google&logoColor=fff&logoWidth=20&labelColor=696969" />
 </a>
 
