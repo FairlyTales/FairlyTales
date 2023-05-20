@@ -3,7 +3,7 @@
 
 ### Welcome to my GitHub! <br />There are mostly frontend things here cause I'm just a frontend dev doing frontend stuff ¯\\\_(ツ)\_/¯
 
-### Here are some of the things I use:
+### Here are some of the things I use
 
 <!-- badges are from https://shield.io  -->
 <!-- icons are from  https://simpleicons.org/ -->
@@ -121,12 +121,12 @@
 </a>
 
 
-### You can check my repositories, maybe you will find something fun, useful or interesting:
+### You can check my repositories, maybe you will find something fun, useful or interesting
 <a href="https://github.com/FairlyTales?tab=repositories" style="text-decoration:none;">
   <img alt="github" src="https://img.shields.io/badge/repositories-474747.svg?&style=for-the-badge&logo=github&logoColor=fff&logoWidth=20&labelColor=696969" />
 </a>
 
-### And you can also contact me:
+### And you can also contact me
 <a href="mailto:khnychkin_kirill@tutanota.com" style="text-decoration:none;">
   <img alt="email" src="https://img.shields.io/badge/email-474747.svg?&style=for-the-badge&logo=gmail&logoColor=fff&logoWidth=20&labelColor=696969" />
 </a>
