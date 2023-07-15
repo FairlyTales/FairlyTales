@@ -87,8 +87,8 @@
   <img alt="jest" src="https://img.shields.io/badge/jest-474747.svg?&style=for-the-badge&logo=jest&logoColor=fff&logoWidth=20&labelColor=696969" />
 </a>
 
-<a href="https://www.cypress.io/" style="text-decoration:none;">
-  <img alt="cypress" src="https://img.shields.io/badge/cypress-474747.svg?&style=for-the-badge&logo=cypress&logoColor=fff&logoWidth=20&labelColor=696969" />
+<a href="https://playwright.dev/" style="text-decoration:none;">
+  <img alt="playwright" src="https://img.shields.io/badge/playwright-474747.svg?&style=for-the-badge&logo=playwright&logoColor=fff&logoWidth=20&labelColor=696969" />
 </a>
 
 <br>
